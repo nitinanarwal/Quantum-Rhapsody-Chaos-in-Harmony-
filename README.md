@@ -12,7 +12,7 @@ Playing a game called Superposition Delight,
 Switching between one, zero, both, day and night. 
 
 &nbsp;
-[Superposition Shenanigans]
+*[Superposition Shenanigans]*
 
 &nbsp;
 &nbsp;
@@ -24,7 +24,7 @@ Acting random, but oh so true.
 Errors and hiccups, their favourite blend,
 
 In the quantum world, chaos is their friend. 
-[ Quantum Marvel, Unpredictable Charm]
+*[ Quantum Marvel, Unpredictable Charm]*
 
 &nbsp;
 &nbsp;
@@ -36,7 +36,7 @@ A dance of particles, a magical chance.
 No matter the space, they stay connected,
 
 In love and pranks, forever intertwined. 
-[Entanglement Tango]
+*[Entanglement Tango]*
 
 &nbsp;
 &nbsp;
@@ -48,7 +48,7 @@ Acting random, but oh so true.
 Errors and hiccups, their favourite blend,
 
 In the quantum world, chaos is their friend.
-[Quantum Marvel, Unpredictable Charm]
+*[Quantum Marvel, Unpredictable Charm]*
 
 &nbsp;
 &nbsp;
@@ -60,7 +60,7 @@ Qubits colliding, creating a din.
 Patterns appear in the quantum ballet,
 
 A graceful chaos in a mysterious display.
-[ Interference Waltz]
+*[ Interference Waltz]*
 
 &nbsp;
 &nbsp;
@@ -72,7 +72,7 @@ Yet they compose the future's musical flow.
 Hard to behave, but oh so smart,
 
 In the quantum orchestra, playing their part.
-[Unstable Symphony]
+*[Unstable Symphony]*
 
 &nbsp;
 &nbsp;
@@ -84,7 +84,7 @@ Acting random, but oh so true
 Errors and hiccups, their favourite blend,
 
 In the quantum world, chaos is their friend
-[Quantum Marvel, Unpredictable Charm]
+*[Quantum Marvel, Unpredictable Charm]*
 
 &nbsp;
 &nbsp;
@@ -96,7 +96,7 @@ In the quantum comedy, where marvels hold sway.
 So here's our song, a marvel for you to see,
 
 In the world of qubits, where laughter is free
-[Quantum Laughter Echoes]
+*[Quantum Laughter Echoes]*
 
 &nbsp;
 &nbsp;

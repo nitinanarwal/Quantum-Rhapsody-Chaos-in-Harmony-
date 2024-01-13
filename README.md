@@ -1,7 +1,5 @@
 # Quantum Rhapsody: "Chaos in Harmony"
-
-- **Title:** Quantum Rhapsody: "Chaos in Harmony"
-   Playful exploration of qubits and their unpredictable charm.
+Playful exploration of qubits and their unpredictable charm.
 
 
 ## Lyrics

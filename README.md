@@ -4,7 +4,6 @@ Playful exploration of qubits and their unpredictable charm.
 ## Lyrics
   
 In the quantum world, where things are a bit strange,
-
 Qubits are like marvels, making a range.
 
 Playing a game called Superposition Delight,

@@ -1,5 +1,5 @@
 # Quantum Rhapsody: "Chaos in Harmony"
-Playful exploration of qubits and their unpredictable charm.
+**Playful exploration of qubits and their unpredictable charm**
 
 ## Lyrics
   
@@ -24,6 +24,7 @@ Acting random, but oh so true.
 Errors and hiccups, their favourite blend,
 
 In the quantum world, chaos is their friend. 
+&nbsp;
 *[ Quantum Marvel, Unpredictable Charm]*
 
 &nbsp;
@@ -36,6 +37,7 @@ A dance of particles, a magical chance.
 No matter the space, they stay connected,
 
 In love and pranks, forever intertwined. 
+&nbsp;
 *[Entanglement Tango]*
 
 &nbsp;
@@ -48,6 +50,7 @@ Acting random, but oh so true.
 Errors and hiccups, their favourite blend,
 
 In the quantum world, chaos is their friend.
+&nbsp;
 *[Quantum Marvel, Unpredictable Charm]*
 
 &nbsp;
@@ -60,6 +63,7 @@ Qubits colliding, creating a din.
 Patterns appear in the quantum ballet,
 
 A graceful chaos in a mysterious display.
+&nbsp;
 *[ Interference Waltz]*
 
 &nbsp;
@@ -72,6 +76,7 @@ Yet they compose the future's musical flow.
 Hard to behave, but oh so smart,
 
 In the quantum orchestra, playing their part.
+&nbsp;
 *[Unstable Symphony]*
 
 &nbsp;
@@ -84,6 +89,7 @@ Acting random, but oh so true
 Errors and hiccups, their favourite blend,
 
 In the quantum world, chaos is their friend
+&nbsp;
 *[Quantum Marvel, Unpredictable Charm]*
 
 &nbsp;
@@ -96,6 +102,7 @@ In the quantum comedy, where marvels hold sway.
 So here's our song, a marvel for you to see,
 
 In the world of qubits, where laughter is free
+&nbsp;
 *[Quantum Laughter Echoes]*
 
 &nbsp;

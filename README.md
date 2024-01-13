@@ -6,11 +6,11 @@
   
 In the quantum world, where things are a bit strange,
 
-Qubits are like marvels, making a range.
+Qubits are like marvels, making a range
 
 Playing a game called Superposition Delight,
 
-Switching between one, zero, both, day and night. 
+Switching between one, zero, both, day and night 
 
 &nbsp;
 *[Superposition Shenanigans]*
@@ -20,11 +20,11 @@ Switching between one, zero, both, day and night.
 
 Quantum marvels, a playful crew,
 
-Acting random, but oh so true.
+Acting random, but oh so true
 
 Errors and hiccups, their favourite blend,
 
-In the quantum world, chaos is their friend. 
+In the quantum world, chaos is their friend
 
 &nbsp;
 *[ Quantum Marvel, Unpredictable Charm]*
@@ -34,11 +34,11 @@ In the quantum world, chaos is their friend.
  
 Entangled buddies, like a quantum romance,
 
-A dance of particles, a magical chance.
+A dance of particles, a magical chance
 
 No matter the space, they stay connected,
 
-In love and pranks, forever intertwined. 
+In love and pranks, forever intertwined 
 
 &nbsp;
 *[Entanglement Tango]*
@@ -48,11 +48,11 @@ In love and pranks, forever intertwined.
 
 Quantum marvels, a playful crew,
 
-Acting random, but oh so true.
+Acting random, but oh so true
 
 Errors and hiccups, their favourite blend,
 
-In the quantum world, chaos is their friend.
+In the quantum world, chaos is their friend
 
 &nbsp;
 *[Quantum Marvel, Unpredictable Charm]*
@@ -62,11 +62,11 @@ In the quantum world, chaos is their friend.
 
 Interference waltz, a delicate spin,
 
-Qubits colliding, creating a din.
+Qubits colliding, creating a din
 
 Patterns appear in the quantum ballet,
 
-A graceful chaos in a mysterious display.
+A graceful chaos in a mysterious display
 
 &nbsp;
 *[ Interference Waltz]*
@@ -76,11 +76,11 @@ A graceful chaos in a mysterious display.
 
 Unstable notes in the quantum show,
 
-Yet they compose the future's musical flow.
+Yet they compose the future's musical flow
 
 Hard to behave, but oh so smart,
 
-In the quantum orchestra, playing their part.
+In the quantum orchestra, playing their part
 
 &nbsp;
 *[Unstable Symphony]*
@@ -104,7 +104,7 @@ In the quantum world, chaos is their friend
 
 Quantum laughter echoes, fading away,
 
-In the quantum comedy, where marvels hold sway.
+In the quantum comedy, where marvels hold sway
 
 So here's our song, a marvel for you to see,
 

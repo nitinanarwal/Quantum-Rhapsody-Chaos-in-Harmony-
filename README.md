@@ -1,7 +1,8 @@
 # Quantum Rhapsody: "Chaos in Harmony"
-**Playful exploration of qubits and their unpredictable charm**
+*Playful exploration of qubits and their unpredictable charm*
 
-## Lyrics
+&nbsp;
+### Lyrics
   
 In the quantum world, where things are a bit strange,
 

@@ -1,7 +1,7 @@
 # Quantum Rhapsody: "Chaos in Harmony"
 
 - **Title:** Quantum Rhapsody: "Chaos in Harmony"
-- **Theme:** Playful exploration of qubits and their unpredictable charm.
+   Playful exploration of qubits and their unpredictable charm.
 
 
 ## Lyrics
@@ -9,7 +9,7 @@
 ### Verse 1: Superposition Shenanigans
 In the quantum world, where things are a bit strange,
 Qubits are like marvels, making a range.
-Playing a game called superposition delight,
+Playing a game called Superposition Delight,
 Switching between one, zero, both, day and night. 
 
 ### Chorus: Quantum Marvel, Unpredictable Charm

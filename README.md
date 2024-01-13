@@ -4,11 +4,11 @@
 &nbsp;
 ### Lyrics
   
-In the quantum world, where things are a bit strange,
+In the quantum world, where things are a bit strange
 
 Qubits are like marvels, making a range
 
-Playing a game called Superposition Delight,
+Playing a game called Superposition Delight
 
 Switching between one, zero, both, day and night 
 
@@ -18,11 +18,11 @@ Switching between one, zero, both, day and night
 &nbsp;
 &nbsp;
 
-Quantum marvels, a playful crew,
+Quantum marvels, a playful crew
 
 Acting random, but oh so true
 
-Errors and hiccups, their favourite blend,
+Errors and hiccups, their favourite blend
 
 In the quantum world, chaos is their friend
 
@@ -32,11 +32,11 @@ In the quantum world, chaos is their friend
 &nbsp;
 &nbsp;
  
-Entangled buddies, like a quantum romance,
+Entangled buddies, like a quantum romance
 
 A dance of particles, a magical chance
 
-No matter the space, they stay connected,
+No matter the space, they stay connected
 
 In love and pranks, forever intertwined 
 
@@ -46,11 +46,11 @@ In love and pranks, forever intertwined
 &nbsp;
 &nbsp;
 
-Quantum marvels, a playful crew,
+Quantum marvels, a playful crew
 
 Acting random, but oh so true
 
-Errors and hiccups, their favourite blend,
+Errors and hiccups, their favourite blend
 
 In the quantum world, chaos is their friend
 
@@ -60,11 +60,11 @@ In the quantum world, chaos is their friend
 &nbsp;
 &nbsp;
 
-Interference waltz, a delicate spin,
+Interference waltz, a delicate spin
 
 Qubits colliding, creating a din
 
-Patterns appear in the quantum ballet,
+Patterns appear in the quantum ballet
 
 A graceful chaos in a mysterious display
 
@@ -74,11 +74,11 @@ A graceful chaos in a mysterious display
 &nbsp;
 &nbsp;
 
-Unstable notes in the quantum show,
+Unstable notes in the quantum show
 
 Yet they compose the future's musical flow
 
-Hard to behave, but oh so smart,
+Hard to behave, but oh so smart
 
 In the quantum orchestra, playing their part
 
@@ -88,11 +88,11 @@ In the quantum orchestra, playing their part
 &nbsp;
 &nbsp;
 
-Quantum marvels, a playful crew,
+Quantum marvels, a playful crew
 
 Acting random, but oh so true
 
-Errors and hiccups, their favourite blend,
+Errors and hiccups, their favourite blend
 
 In the quantum world, chaos is their friend
 
@@ -102,11 +102,11 @@ In the quantum world, chaos is their friend
 &nbsp;
 &nbsp;
 
-Quantum laughter echoes, fading away,
+Quantum laughter echoes, fading away
 
 In the quantum comedy, where marvels hold sway
 
-So here's our song, a marvel for you to see,
+So here's our song, a marvel for you to see
 
 In the world of qubits, where laughter is free
 
